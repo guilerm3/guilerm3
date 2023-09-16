@@ -12,7 +12,7 @@ object **GUILHERME** {
 
  val primarySkillset = "Proatividade","Código Limpo"
  val languages = listOf("Java", "Python", "JavaScript", "React", "PHP", "Kotlin")
- val observation = "Apenas JavaScript com mais de 1 ano de experiencia"
+ val observation = "Apenas JavaScript com mais de 2 anos de experiência"
 
 }
 ```
