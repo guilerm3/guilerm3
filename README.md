@@ -13,7 +13,9 @@ object **GUILHERME** {
  val primarySkillset = "Proatividade","Código Limpo"
  val languages = listOf("Java", "Python", "JavaScript", "React", "PHP", "Kotlin")
  val observation = "Apenas JavaScript com mais de 2 anos de experiência"
-
+ val from = "Ipatinga, MG, Brazil"
+ val created_at = "1998-14-02"
+ val email = "gas7@outlook.com"
 }
 ```
 
