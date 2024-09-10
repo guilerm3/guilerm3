@@ -10,8 +10,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 object **GUILHERME** {
  val name = "Guilherme Augusto Silva"
 
- val primarySkillset = "Proatividade","Código Limpo"
- val languages = listOf("Java", "Python", "JavaScript", "React", "PHP", "Kotlin")
+ val primarySkillset = "Proatividade","Código Limpo","Programador Pragmático"
+ val languages = listOf("Java", "Python", "JavaScript", "React", "Kotlin")
  val observation = "Apenas JavaScript com mais de 2 anos de experiência"
  val from = "Ipatinga, MG, Brazil"
  val created_at = "1998-14-02"
