@@ -4,7 +4,7 @@
 
 Sou apaixonado por criar interfaces intuitivas e responsivas. Busco sempre me atualizar nas últimas tendências e tecnologias do desenvolvimento web.
 
-### Projetos:
+## Projetos:
 
 Tenho alguns projetos práticos que refletem meu aprendizado e habilidades. Sinta-se à vontade para explorar meu portfólio e ver como eu aplico meus conhecimentos!
 
