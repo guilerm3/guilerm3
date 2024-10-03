@@ -8,7 +8,7 @@ Sou apaixonado por criar interfaces intuitivas e responsivas. Busco sempre me at
 
 Tenho alguns projetos práticos que refletem meu aprendizado e habilidades. Sinta-se à vontade para explorar meu portfólio e ver como eu aplico meus conhecimentos!
 
-Projeto 1: Aperfeiçoamento site gerenciador de tarefas, utilizando o 'local storage' para armazenar dados das tarefas: <a href="https://guilerm3.github.io/TODO-LIST/" target="_blank">Clique aqui!</a> 
+Projeto 1: Aperfeiçoamento do site gerenciador de tarefas utilizando o 'local storage' para armazenar dados das tarefas: <a href="https://guilerm3.github.io/TODO-LIST/" target="_blank">Clique aqui!</a> 
 
 Projeto 2: Gerenciador de tarefas online responsivo para mobile:  <a href="https://guilerm3.github.io/RID185998_Desafio03/" target="_blank">Clique aqui!</a> 
 
