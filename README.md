@@ -1,39 +1,45 @@
-# Olá devs 👋
+## 💜 Olá, meu nome é Guilherme!
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+👨‍💻 Desenvolvedor Front-End | Formado em Sistemas de Informação
 
-## Desenvolvedor JR
+Sou apaixonado por criar interfaces intuitivas e responsivas. Busco sempre me atualizar nas últimas tendências e tecnologias do desenvolvimento web.
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+Projetos:
 
-```kotlin
-object **GUILHERME** {
- val name = "Guilherme Augusto Silva"
+Tenho alguns projetos práticos que refletem meu aprendizado e habilidades. Sinta-se à vontade para explorar meu portfólio e ver como eu aplico meus conhecimentos!
 
- val primarySkillset = "Proatividade","Código Limpo","Programador Pragmático"
- val languages = listOf("Java", "Python", "JavaScript", "React", "Kotlin")
- val observation = "Apenas JavaScript com mais de 2 anos de experiência"
- val from = "Ipatinga, MG, Brazil"
- val created_at = "1998-14-02"
- val email = "gas7@outlook.com"
-}
-```
+Projeto 1: Site responsivo para mobile (https://guilerm3.github.io/RID185998_Desafio01/).
 
-## Linguagens e ferramentas
+Projeto 2: Gerenciador de tarefas online responsivo para mobile (https://guilerm3.github.io/RID185998_Desafio03/).
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+Projeto 3: Aperfeiçoamento site gerenciador de tarefas, utilizando o 'local storage' para armazenar dados das tarefas(https://guilerm3.github.io/TODO-LIST/).
 
+Vamos nos conectar!
+Estou sempre aberto a colaborações e trocas de ideias. Sinta-se à vontade para me enviar uma mensagem!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-augusto-14069a214/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+---
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilerm3&show_icons=true)
