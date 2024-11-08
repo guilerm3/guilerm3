@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Desenvolvedor Front-End | Formado em Sistemas de Informação
 
-Sou apaixonado por criar interfaces intuitivas e responsivas. Busco sempre me atualizar nas últimas tendências e tecnologias do desenvolvimento web.
+Gosto de criar interfaces intuitivas e responsivas. Busco sempre me atualizar nas últimas tendências e tecnologias do desenvolvimento web.
 
 ## Projetos:
 
