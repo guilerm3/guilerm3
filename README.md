@@ -14,6 +14,7 @@ Projeto 2: Gerenciador de tarefas online responsivo para mobile:  <a href="https
 
 Projeto 3: Site responsivo para mobile: <a href="https://guilerm3.github.io/RID185998_Desafio01/ " target="_blank">Clique aqui!</a> 
 
+Projeto em desenvolvimento: Site SPA com utilização de REACT e consumo de APIs rest: <a href="https://github.com/guilerm3/dnc-arq-guilherme" target="_blank">Clique aqui!</a> 
 
 Vamos nos conectar!
 Estou sempre aberto a colaborações e trocas de ideias. Sinta-se à vontade para me enviar uma mensagem!
