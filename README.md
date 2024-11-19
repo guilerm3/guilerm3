@@ -1,6 +1,6 @@
 # 💜 Olá, meu nome é Guilherme!
 
-## 👨‍💻 Desenvolvedor Front-End | Formado em Sistemas de Informação
+## 👨‍💻 Desenvolvedor Front-End | Formado em Sistemas de Informação  
 
 Gosto de criar interfaces intuitivas e responsivas. Busco sempre me atualizar nas últimas tendências e tecnologias do desenvolvimento web.
 
@@ -14,7 +14,7 @@ Projeto 1: Aperfeiçoamento do site gerenciador de tarefas utilizando o 'local s
 
 Projeto 2: Gerenciador de tarefas online responsivo para mobile:  <a href="https://guilerm3.github.io/RID185998_Desafio03/" target="_blank">Clique aqui!</a> 
 
-Projeto 3: Site responsivo para mobile: <a href="https://guilerm3.github.io/RID185998_Desafio01/ " target="_blank">Clique aqui!</a> 
+Projeto 3: Site para portifólio com responsividade aplicada: <a href="https://guilerm3.github.io/site-portifolio01/" target="_blank">Clique aqui!</a> 
 
 Vamos nos conectar!
 Estou sempre aberto a colaborações e trocas de ideias. Sinta-se à vontade para me enviar uma mensagem!
