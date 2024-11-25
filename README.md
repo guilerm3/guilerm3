@@ -2,7 +2,8 @@
 
 ## 👨‍💻 Dev. front end / JavaScript / React / TypeScript / Node
 
-Gosto de criar interfaces intuitivas e responsivas. Busco sempre me atualizar nas últimas tendências e tecnologias do desenvolvimento web.
+👋 Olá! Sou desenvolvedor front-end, buscando oportunidades para aplicar meus conhecimentos em **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript** e **Node.js**. Estou sempre aprendendo e, atualmente, me aprofundando em **bibliotecas como Redux** e **Next.js**. Gosto de construir interfaces responsivas e focadas na experiência do usuário. Meu objetivo é trabalhar em projetos desafiadores que me ajudem a evoluir como desenvolvedor e contribuir com soluções inovadoras.
+
 
 ## Projetos:
 
