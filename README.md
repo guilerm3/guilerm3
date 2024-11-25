@@ -1,6 +1,6 @@
 # 💜 Olá, meu nome é Guilherme!
 
-## 👨‍💻 Desenvolvedor Front-End | Formado em Sistemas de Informação  
+## 👨‍💻 Dev. front end / JavaScript / React / TypeScript / Node | Formado em Sistemas de Informação  
 
 Gosto de criar interfaces intuitivas e responsivas. Busco sempre me atualizar nas últimas tendências e tecnologias do desenvolvimento web.
 
