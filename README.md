@@ -9,13 +9,13 @@
 
 Tenho alguns projetos práticos que refletem meu aprendizado e habilidades. Sinta-se à vontade para explorar meu portfólio e ver como eu aplico meus conhecimentos!
 
-Projeto 1: Site SPA com utilização de REACT e consumo de APIs rest: <a href="https://dnc-arq-guilherme.vercel.app" target="_blank">Clique aqui!</a>
+Projeto 1: Site SPA com utilização de REACT e consumo de APIs rest: <a href="https://dnc-arq-guilherme.vercel.app" target="_blank">Clique aqui!</a> <a href="https://github.com/guilerm3/arquitetura-spa-react" target="_blank">Repositório</a>
 
-Projeto 2: Site para portifólio com responsividade para tablets e mobile aplicada: <a href="https://guilerm3.github.io/site-portifolio01/" target="_blank">Clique aqui!</a> 
+Projeto 2: Site para portifólio com responsividade para tablets e mobile aplicada: <a href="https://guilerm3.github.io/site-portifolio01/" target="_blank">Clique aqui!</a> <a href="https://github.com/guilerm3/site-portifolio01" target="_blank">Repositório</a>
 
-Projeto 3: Aperfeiçoamento do site gerenciador de tarefas utilizando o 'local storage' para armazenar dados das tarefas: <a href="https://guilerm3.github.io/TODO-LIST/" target="_blank">Clique aqui!</a> 
+Projeto 3: Aperfeiçoamento do site gerenciador de tarefas utilizando o 'local storage' para armazenar dados das tarefas: <a href="https://guilerm3.github.io/TODO-LIST/" target="_blank">Clique aqui!</a> <a href="https://github.com/guilerm3/TODO-LIST" target="_blank">Repositório</a>
 
-Projeto 4: Gerenciador de tarefas online responsivo para mobile:  <a href="https://guilerm3.github.io/RID185998_Desafio03/" target="_blank">Clique aqui!</a> 
+Projeto 4: Gerenciador de tarefas online responsivo para mobile:  <a href="https://guilerm3.github.io/RID185998_Desafio03/" target="_blank">Clique aqui!</a> <a href="https://github.com/guilerm3/RID185998_Desafio03" target="_blank">Repositório</a>
 
 Vamos nos conectar!
 Estou sempre aberto a colaborações e trocas de ideias. Sinta-se à vontade para me enviar uma mensagem!
