@@ -10,7 +10,7 @@ Olá! Sou desenvolvedor front-end apaixonado por construir experiências incrív
 
 Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 
-### 1. [**SPA com React e consumo de APIs REST**](https://dnc-arq-guilherme.vercel.app)
+### 1. [**SPA com React e consumo de APIs REST**](https://arquitetura-spa-react.vercel.app)
 - **Descrição**: Site desenvolvido como uma Single Page Application (SPA) usando React. O projeto faz consumo de APIs REST para exibir dados de forma dinâmica.
 - **Repositório**: [GitHub](https://github.com/guilerm3/arquitetura-spa-react)
 
