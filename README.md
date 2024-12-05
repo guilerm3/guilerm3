@@ -18,7 +18,7 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 - **Descrição**: Uma versão aprimorada do gerenciador de tarefas, utilizando React, TypeScript e `localStorage` para persistência das tarefas.
 - **Repositório**: [GitHub](https://github.com/guilerm3/gerenciador-typescript)
 
-### 3. [**Site Portfólio Responsivo**](https://guilerm3.github.io/site-portifolio01/)
+### 3. [**Site Portfólio**](https://guilerm3.github.io/site-portifolio01/)
 - **Descrição**: Site pessoal para portfólio com design responsivo, adaptado para tablets e dispositivos móveis.
 - **Repositório**: [GitHub](https://github.com/guilerm3/site-portifolio01)
 
