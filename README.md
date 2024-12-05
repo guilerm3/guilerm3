@@ -14,21 +14,23 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 - **Descrição**: Site desenvolvido como uma Single Page Application (SPA) usando React. O projeto faz consumo de APIs REST para exibir dados de forma dinâmica.
 - **Repositório**: [GitHub](https://github.com/guilerm3/arquitetura-spa-react)
 
-### 2. [**Site Portfólio Responsivo**](https://guilerm3.github.io/site-portifolio01/)
+### 2. [**Todo List com React/TypeScript e LocalStorage**](https://gerenciador-typescript-duiz3urk4-guilhermes-projects-26f2b68c.vercel.app/)
+- **Descrição**: Uma versão aprimorada do gerenciador de tarefas, utilizando React, TypeScript e `localStorage` para persistência das tarefas.
+- **Repositório**: [GitHub](https://github.com/guilerm3/gerenciador-typescript)
+
+### 3. [**Site Portfólio Responsivo**](https://guilerm3.github.io/site-portifolio01/)
 - **Descrição**: Site pessoal para portfólio com design responsivo, adaptado para tablets e dispositivos móveis.
 - **Repositório**: [GitHub](https://github.com/guilerm3/site-portifolio01)
 
-### 3. [**Todo List com React e LocalStorage**](https://guilerm3.github.io/TODO-LIST/)
+### 4. [**Todo List com React e LocalStorage**](https://guilerm3.github.io/TODO-LIST/)
 - **Descrição**: Gerenciador de tarefas com React, onde as tarefas são armazenadas no `localStorage` do navegador. Permite adicionar, concluir e excluir tarefas.
 - **Repositório**: [GitHub](https://github.com/guilerm3/TODO-LIST)
 
-### 4. [**Todo List para mobile**](https://guilerm3.github.io/RID185998_Desafio03/)
+### 5. [**Todo List para mobile**](https://guilerm3.github.io/RID185998_Desafio03/)
 - **Descrição**: Projeto de gerenciador de tarefas responsivo para dispositivos móveis. Desenvolvido com foco em simplicidade e usabilidade.
 - **Repositório**: [GitHub](https://github.com/guilerm3/RID185998_Desafio03)
 
-### 5. [**Todo List com React/TypeScript e LocalStorage**](https://gerenciador-typescript-duiz3urk4-guilhermes-projects-26f2b68c.vercel.app/)
-- **Descrição**: Uma versão aprimorada do gerenciador de tarefas, utilizando React, TypeScript e `localStorage` para persistência das tarefas.
-- **Repositório**: [GitHub](https://github.com/guilerm3/gerenciador-typescript)
+
 
 ---
 
