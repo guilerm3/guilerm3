@@ -54,7 +54,6 @@ Aqui estão as tecnologias que mais utilizo no meu dia a dia como desenvolvedor 
 ### **Outras Ferramentas**:
 - **Redux**: Gerenciamento de estado para aplicações React.
 - **Next.js**: Framework React para renderização do lado servidor (SSR) e geração de sites estáticos.
-- **Git**: Controle de versão e colaboração em equipe.
 
 ---
 
