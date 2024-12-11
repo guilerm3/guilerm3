@@ -14,7 +14,7 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 - **Descrição**: Site desenvolvido como uma Single Page Application (SPA) usando React. O projeto faz consumo de APIs REST para exibir dados de forma dinâmica.
 - **Repositório**: [GitHub](https://github.com/guilerm3/arquitetura-spa-react)
 
-### 2. [**Todo List com React/TypeScript e LocalStorage**](https://gerenciador-typescript-duiz3urk4-guilhermes-projects-26f2b68c.vercel.app/)
+### 2. [**Todo List com React/TypeScript e LocalStorage**](https://gerenciador-typescript.vercel.app)
 - **Descrição**: Uma versão aprimorada do gerenciador de tarefas, utilizando React, TypeScript e `localStorage` para persistência das tarefas.
 - **Repositório**: [GitHub](https://github.com/guilerm3/gerenciador-typescript)
 
