@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Desenvolvedor Front-End | JavaScript | React | TypeScript | Node.js
 
-Olá! Sou desenvolvedor front-end apaixonado por construir experiências incríveis na web. Tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **TypeScript** e **Node.js**. Meu objetivo é criar interfaces responsivas, acessíveis e intuitivas, sempre com foco na experiência do usuário. Estou à procura de oportunidades para trabalhar em projetos desafiadores que me permitam crescer profissionalmente.
+Experiência com **JavaScript**, **React**, **TypeScript** e **Node.js**. Meu objetivo é criar interfaces responsivas, acessíveis e intuitivas, sempre com foco na experiência do usuário. Estou à procura de oportunidades para trabalhar em projetos desafiadores que me permitam crescer profissionalmente.
 
 ---
 
