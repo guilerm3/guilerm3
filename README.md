@@ -10,7 +10,7 @@ Experiência com **JavaScript**, **React**, **TypeScript** e **Node.js**. Meu ob
 
 Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 
-### 1. [**SPA com React e consumo de APIs REST**](https://dnc-sales-dashboard-gas.vercel.app)
+### 1. [**Dashboard de Vendas completo**](https://dnc-sales-dashboard-gas.vercel.app)
 - **Descrição**: Um dashboard interativo de vendas desenvolvido com React e TypeScript/JavaScript, projetado para gerenciar leads e perfis de usuários. A aplicação conta com funcionalidades completas e testes automatizados para garantir a confiabilidade.
 - **Repositório**: [GitHub](https://github.com/guilerm3/dnc-sales-dashboard-gas)
 
