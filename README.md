@@ -1,8 +1,8 @@
 # 💜 Olá, eu sou o Guilherme!
 
-## 👨‍💻 Desenvolvedor Front-End | JavaScript | React | TypeScript | Node.js
+## 👨‍💻 Desenvolvedor Full-stack | C# | JavaScript | React | TypeScript | Node.js
 
-Experiência com **JavaScript**, **React**, **TypeScript** e **Node.js**. Meu objetivo é criar interfaces responsivas, acessíveis e intuitivas, sempre com foco na experiência do usuário. Estou à procura de oportunidades para trabalhar em projetos desafiadores que me permitam crescer profissionalmente.
+Experiência com **C#**, **JavaScript**, **React**, **TypeScript** e **Node.js**.
 
 ---
 
