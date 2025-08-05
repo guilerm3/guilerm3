@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Meus Projetos
+## 🚀 Alguns de meus Projetos
 
 Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 
