@@ -39,29 +39,6 @@ Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
 
 ---
 
-## 🚀 Minhas Skills
-
-Aqui estão as tecnologias que mais utilizo no meu dia a dia como desenvolvedor front-end:
-
-### **Front-End**:
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/> **HTML5**
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/> **CSS3**
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/> **JavaScript**
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/> **React**
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/> **TypeScript**
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/> **Bootstrap**
-
-### **Back-End**:
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/> **Node.js**
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/> **MySQL**
-- <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/> **PostgreSQL**
-
-### **Outras Ferramentas**:
-- **Redux**: Gerenciamento de estado para aplicações React.
-- **Next.js**: Framework React para renderização do lado servidor (SSR) e geração de sites estáticos.
-
----
-
 ## 📬 Vamos Conectar!
 
 Estou sempre aberto a novas oportunidades e colaborações! Se você está interessado em trocar ideias ou trabalhar junto em algum projeto, sinta-se à vontade para me enviar uma mensagem!
