@@ -2,8 +2,6 @@
 
 ## 👨‍💻 Desenvolvedor Full-stack | C# | JavaScript | React | TypeScript | Node.js
 
-Experiência com **C#**, **JavaScript**, **React**, **TypeScript** e **Node.js**.
-
 ---
 
 ## 🚀 Meus Projetos
