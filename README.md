@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou o Guilherme!
+# Olá, eu sou o Guilherme!
 
 ## 👨‍💻 Desenvolvedor Full-stack | C# | JavaScript | React | TypeScript | Node.js
 
