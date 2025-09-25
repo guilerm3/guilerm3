@@ -4,41 +4,6 @@
 
 ---
 
-## 🚀 Alguns de meus Projetos
-
-Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:
-
-### 1. [**Dashboard de Vendas completo**](https://dnc-sales-dashboard-gas.vercel.app)
-- Logue com:
-- usuario: teste@gmail.com
-- senha: Teste123@
-- **Descrição**: Um dashboard interativo de vendas desenvolvido com React e TypeScript/JavaScript, projetado para gerenciar leads e perfis de usuários. A aplicação conta com funcionalidades completas e testes automatizados para garantir a confiabilidade.
-- **Repositório**: [GitHub](https://github.com/guilerm3/dnc-sales-dashboard-gas)
-
-### 2. [**SPA com React e consumo de APIs REST**](https://arquitetura-spa-react.vercel.app)
-- **Descrição**: Site desenvolvido como uma Single Page Application (SPA) usando React. O projeto faz consumo de APIs REST para exibir dados de forma dinâmica.
-- **Repositório**: [GitHub](https://github.com/guilerm3/arquitetura-spa-react)
-
-### 3. [**Todo List com React/TypeScript e LocalStorage**](https://gerenciador-typescript.vercel.app)
-- **Descrição**: Uma versão aprimorada do gerenciador de tarefas, utilizando React, TypeScript e `localStorage` para persistência das tarefas.
-- **Repositório**: [GitHub](https://github.com/guilerm3/gerenciador-typescript)
-
-### 4. [**Site Portfólio**](https://guilerm3.github.io/site-portifolio01/)
-- **Descrição**: Site pessoal para portfólio com design responsivo, adaptado para tablets e dispositivos móveis.
-- **Repositório**: [GitHub](https://github.com/guilerm3/site-portifolio01)
-
-### 5. [**Todo List com React e LocalStorage**](https://guilerm3.github.io/TODO-LIST/)
-- **Descrição**: Gerenciador de tarefas com React, onde as tarefas são armazenadas no `localStorage` do navegador. Permite adicionar, concluir e excluir tarefas.
-- **Repositório**: [GitHub](https://github.com/guilerm3/TODO-LIST)
-
-### 6. [**Todo List para mobile**](https://guilerm3.github.io/RID185998_Desafio03/)
-- **Descrição**: Projeto de gerenciador de tarefas responsivo para dispositivos móveis. Desenvolvido com foco em simplicidade e usabilidade.
-- **Repositório**: [GitHub](https://github.com/guilerm3/RID185998_Desafio03)
-
-
-
----
-
 ## 📬 Vamos Conectar!
 
 Estou sempre aberto a novas oportunidades e colaborações! Se você está interessado em trocar ideias ou trabalhar junto em algum projeto, sinta-se à vontade para me enviar uma mensagem!
